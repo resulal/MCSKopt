@@ -1,2 +1,2 @@
 # MCSKopt
-Simulation-based design space optimization under uncertainty using Stochastic Kriging and Monte Carlo simulation.
+Process simulation-based design space optimizer with embeded Monte Carlo-based uncertainty quantification.
