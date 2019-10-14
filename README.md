@@ -19,6 +19,5 @@ The MCSKopt optimizer is released under the MIT License.
 ### Acknowledgements
 This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no.675251.
 
-
-[Framework]: https://github.com/resulal/MCSKopt/blob/master/Documentation/Figs/Framework.png "Computational Framework"
+![Framework](https://github.com/resulal/MCSKopt/blob/master/Documentation/Figs/Framework.png "Computational Framework")
 
