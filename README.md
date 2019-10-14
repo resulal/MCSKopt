@@ -1,3 +1,6 @@
+![MCSKopt](https://github.com/resulal/MCSKopt/blob/master/Examples/Figs/MCSKopt.PNG "MCSKopt")
+
+
 # MCSKopt
 Process simulation-based design space optimizer with embeded Monte Carlo-based uncertainty quantification.
 
@@ -5,7 +8,6 @@ Process simulation-based design space optimizer with embeded Monte Carlo-based u
 MCSKopt is a MATLAB-based simulation-based optimizer and is part of a larger computational framework developed for performing design space optimization under uncertainty in the following paper. 
 
 **Stochastic simulation-based superstructure optimization framework for process synthesis and design under uncertainty**
-![MCSKopt](https://github.com/resulal/MCSKopt/blob/master/Examples/Figs/MCSKopt.PNG "MCSKopt")
 
 ### Installing MCSKopt
 Downloading and adding the folder path to your current MATLAB session will suffice to make use of the full functionality of the optimizer.
